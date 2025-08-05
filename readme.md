@@ -14,16 +14,16 @@
 ### 🛠️ Tech Stack
 
 **Languages:**  
-`JavaScript` `TypeScript` `Python` `Dart`  
+`JavaScript` `TypeScript` `Python` `Java` `Bash`
 
 **Frontend:**  
-`React` `Next.js` `HTML` `CSS` `Tailwind`
+`React` `Next.js` `HTML` `CSS` `Tailwind` `electron`
 
 **Mobile:**  
 `React Native`
 
 **Backend & Tools:**  
-`Node.js` `Express` `Firebase` `Vercel` `Git` `GitHub` `Figma`
+`Node.js` `Express` `Firebase` `Vercel` `Git` `GitHub` `Figma` 
 
 ---
 
